@@ -1,0 +1,3 @@
+/home/dorchester/CLionProjects/labirint/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dorchester/CLionProjects/labirint/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dorchester/CLionProjects/labirint/cmake-build-debug/CMakeFiles/labirint.dir
